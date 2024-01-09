@@ -11,6 +11,9 @@ This project is a simple weather application built using React.js. As a beginner
 - **useEffect Hook:** Implemented lifecycle methods with the `useEffect` hook for fetching and updating data.
 - **Open Weather API Integration:** Integrated the Open Weather API to provide real-time weather data.
 
+## Try it Here
+Explore the Weather App on the deployed website: [Weather App Demo](https://liladharvarma.github.io/WeatherApp/)
+
 ## Getting Started
 
 Follow these steps to run the Weather App locally:
